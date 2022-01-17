@@ -1,1 +1,3 @@
-console.log("hello git part 2");
+# learning-git 
+
+learmimg git pulll 
