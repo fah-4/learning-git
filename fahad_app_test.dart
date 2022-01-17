@@ -5,5 +5,6 @@ void main() {
   test('calculate', () {
     expect(calculate(), 42);
   });
+  print(calculate());
 
 }
